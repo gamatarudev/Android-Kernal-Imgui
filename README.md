@@ -3,8 +3,6 @@
 <div align="center">
 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/1337Xcode/Android-Game-Hacking.svg)](https://github.com/1337Xcode/Android-Game-Hacking/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/1337Xcode/Android-Game-Hacking.svg)](https://github.com/1337Xcode/Android-Game-Hacking/pulls)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
