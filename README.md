@@ -13,7 +13,7 @@ This repository is a compilation of tools, utilities, and Android Imgui codes de
 
 ## Disclaimer
 > ### Legal Disclaimer
-> For any inquiries or concerns regarding the content of this repository or If you believe any content should be removed for legal or ethical reasons, please reach out to discuss further on Telegram [@GAMATARU](https://t.me/GAMATARU).
+> For any inquiries or concerns regarding the content of this repository or If you believe any content should be removed for legal or ethical reasons, please reach out to discuss further on Telegram [@GAMATARU](https://t.me/GAMATARUdev).
 
 The content provided in this repository is for educational and research purposes only. Use of the information and tools for any unauthorized or illegal activities is strictly prohibited. The authors and contributors of this repository are not liable for any misuse or consequences resulting from the use of this content.
 
